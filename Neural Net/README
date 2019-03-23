@@ -1,0 +1,15 @@
+info:
+LINE 147 - uncomment if error 15 is thrown regarding on runtime
+
+to run:
+python app.py
+
+optional arguments:
+
+scrape
+descrption: Re-scrapes all team and season data between 2000 and 2018
+usage: python app.py scrape
+
+plot
+description: Show resulting model accuracy and loss Plots
+usage: python app.py plot
